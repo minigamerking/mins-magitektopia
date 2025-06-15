@@ -1,6 +1,16 @@
 This is the first version to truly feel like an actual modpack
-It adds many mods that help with making the pack feel like an actual modpack
+It adds many mods that help with making the pack feel like an actual modpack.
+These include ModpackUtils, Modpack Update Checker, and FancyMenu
 
-There are also a few new changes to the mods, like the removal of one mod and the addition of a couple others
+I will make the menu look less like the vanilla one soon.
 
-This is my first changelog, so it's not the greatest
+The additions to the modpack are as follows:
+
+- Create: Extended Wrenches
+- Create: Factory Logistics
+- Foggy Pale Garden
+- Better Client
+- More Relics
+- Crash Assistant
+
+I also removed the SimpleMenu mod because I decided to use FancyMenu instead
