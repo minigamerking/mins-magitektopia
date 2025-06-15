@@ -1,0 +1,6 @@
+This is the first version to truly feel like an actual modpack
+It adds many mods that help with making the pack feel like an actual modpack
+
+There are also a few new changes to the mods, like the removal of one mod and the addition of a couple others
+
+This is my first changelog, so it's not the greatest
