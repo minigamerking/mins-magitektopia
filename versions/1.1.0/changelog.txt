@@ -12,6 +12,8 @@ The additions to the modpack are as follows:
 - Foggy Pale Garden
 - Better Client
 - More Relics
+- Underlay
+- Lucky's Showcase
 - Crash Assistant
 
 I also removed the SimpleMenu mod because I decided to use FancyMenu instead
