@@ -8,6 +8,7 @@ The additions to the modpack are as follows:
 
 - Create: Extended Wrenches
 - Create: Factory Logistics
+- Create More: Linked Remotes
 - Foggy Pale Garden
 - Better Client
 - More Relics
