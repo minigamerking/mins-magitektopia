@@ -37,6 +37,15 @@
     			"curseforge": "https://www.curseforge.com/minecraft/modpacks/mins-magitektopia/files/"
     		}
     	}
+    },
+    {
+    	"id": "1.2.1",
+    	"releasedAt": 1751207814587,
+    	"promotions": {
+    		"downloads": {
+    			"curseforge": "https://www.curseforge.com/minecraft/modpacks/mins-magitektopia/files/"
+    		}
+    	}
     }
   ]
 }
