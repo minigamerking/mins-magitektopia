@@ -6,5 +6,6 @@ Some additions include
 - Moog's End Structures
 - Yet Another Memory Optimization
 - Mowzie's Mobs
+- Schematics Energistics
 
 I also removed Cataclysmic Delight since it caused bugs with boss drops
